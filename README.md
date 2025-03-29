@@ -1,2 +1,2 @@
 # Rubik-s-Cube
-CSS, HTML, JS
+Stunning Rotating Animation with JavaScript!
